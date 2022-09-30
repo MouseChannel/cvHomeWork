@@ -1,0 +1,3 @@
+/home/sampleCode/build/CMakeFiles/rebuild_cache.dir
+/home/sampleCode/build/CMakeFiles/sampleCode.dir
+/home/sampleCode/build/CMakeFiles/edit_cache.dir
